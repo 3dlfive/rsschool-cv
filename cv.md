@@ -24,7 +24,7 @@ function hero(bullets, dragons){
 
 ## Education  and experience  
 
-Category | Name of course
+CATEGORY | NAME
 --------|:--------:
 **university** | National Academy of Internal Affairs (2017). Diploma of a specialist in the field of jurisprudence.
 |Kyiv National Economic University (2014). Master's degree in Banking.
