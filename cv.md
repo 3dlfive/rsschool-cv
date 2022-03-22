@@ -34,7 +34,7 @@ CATEGORY | NAME
 |	 JS
 **Books**	| JavaScript for Kids: A Playful Introduction to Programming. by Nick Morgan
 |  JavaScript and JQuery: Interactive Front-End Web Development by Jon Duckett
-**Codewars**|![Codewars profile img](https://www.codewars.com/users/multihead/badges/small)|
+**Codewars**|![Codewars profile img](https://www.codewars.com/users/3dlfive/badges/small)|
 
 ## Projects
 
