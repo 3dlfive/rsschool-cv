@@ -104,29 +104,68 @@ body {
   color: #FFFFFF;
   padding: 20px 15px;
 }
-.code-example{
+
+.code-example {
   padding: 20px 20px;
   background-color: #4BCAFF;
   display: block;
-  width:33%;
+  width: 33%;
   margin-left: auto;
-  margin-right: auto;  font-weight: 400;
-    font-size: 18px;
-    line-height: 24px;
-    color: #2C2C2C;
+  margin-right: auto;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #2C2C2C;
 }
-.portfolio-item{
 
+.portfolio-item {
   font-weight: 400;
   font-size: 18px;
   line-height: 24px;
   color: #2C2C2C;
   text-decoration: none;
 }
-.diplom-table{
+
+.diplom-table {
   margin-left: auto;
   margin-right: auto;
-  border: 1px solid #35444F;color: #FFFFFF;
+  border: 1px solid #35444F;
+  color: #FFFFFF;
   background-color: #35444F;
   padding: 5px;
+}
+
+.page-footer {
+  background-color: #35444F;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+
+.page-git {
+  color: #FFFFFF;
+}
+
+.page-footer>p {
+  display: inline-block;
+  text-align: center;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #4BCAFF;
+  text-decoration: none;
+  margin-left: 150px;
+}
+
+.page-footer>a {
+  margin-top: auto;
+  margin-bottom: auto;
+  display: inline-block;
+  margin-right: -100px;
+}
+
+.page-footer>a>img {
+  display: inline-block;
+  margin-top: auto;
+  margin-bottom: auto;
 }
