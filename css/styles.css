@@ -44,7 +44,6 @@ body {
 .img-wrapper {
   display: inline-block;
   margin-left: 60px;
-  
 }
 
 .page-about-me {
@@ -60,6 +59,16 @@ body {
   color: #35444F;
 }
 
+.page-subtitle {
+  font-style: normal;
+  font-weight: 800;
+  font-size: 27px;
+  line-height: 27px;
+  color: #35444F;
+  text-decoration: underline;
+  text-align: center;
+}
+
 .page-text {
   font-weight: 400;
   font-size: 18px;
@@ -71,4 +80,53 @@ body {
   display: inline-block;
   width: 50%;
   margin-right: 60px;
+}
+
+.contact-item-link {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 24px;
+  color: #2C2C2C;
+  text-decoration: none;
+}
+
+.skills-list {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  justify-content: space-around;
+}
+
+.skills-item {
+  border: 1px solid #4BCAFF;
+  background: #35444F;
+  border-radius: 50%;
+  color: #FFFFFF;
+  padding: 20px 15px;
+}
+.code-example{
+  padding: 20px 20px;
+  background-color: #4BCAFF;
+  display: block;
+  width:33%;
+  margin-left: auto;
+  margin-right: auto;  font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #2C2C2C;
+}
+.portfolio-item{
+
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #2C2C2C;
+  text-decoration: none;
+}
+.diplom-table{
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid #35444F;color: #FFFFFF;
+  background-color: #35444F;
+  padding: 5px;
 }
