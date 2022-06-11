@@ -1,0 +1,171 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.conteiner {
+  max-width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.page-logo {
+  font-weight: 400;
+  font-size: 80px;
+  line-height: 94px;
+  color: #000000;
+  text-decoration: none;
+}
+
+.acsent-color {
+  color: #4BCAFF;
+}
+
+.nav-list {
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+  background: #35444F;
+}
+
+.nav-link {
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  display: flex;
+  align-items: flex-end;
+  color: #FFFFFF;
+  padding-left: 35px;
+  padding-right: 35px;
+  border-right: 1px solid #4BCAFF;
+  border-left: 1px solid #4BCAFF;
+}
+
+.img-wrapper {
+  display: inline-block;
+  margin-left: 60px;
+}
+
+.page-about-me {
+  display: flex;
+  justify-content: space-between;
+}
+
+.page-title {
+  font-style: normal;
+  font-weight: 800;
+  font-size: 37px;
+  line-height: 37px;
+  color: #35444F;
+}
+
+.page-subtitle {
+  font-style: normal;
+  font-weight: 800;
+  font-size: 27px;
+  line-height: 27px;
+  color: #35444F;
+  text-decoration: underline;
+  text-align: center;
+}
+
+.page-text {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #2C2C2C;
+}
+
+.about-container {
+  display: inline-block;
+  width: 50%;
+  margin-right: 60px;
+}
+
+.contact-item-link {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 24px;
+  color: #2C2C2C;
+  text-decoration: none;
+}
+
+.skills-list {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  justify-content: space-around;
+}
+
+.skills-item {
+  border: 1px solid #4BCAFF;
+  background: #35444F;
+  border-radius: 50%;
+  color: #FFFFFF;
+  padding: 20px 15px;
+}
+
+.code-example {
+  padding: 20px 20px;
+  background-color: #4BCAFF;
+  display: block;
+  width: 33%;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #2C2C2C;
+}
+
+.portfolio-item {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #2C2C2C;
+  text-decoration: none;
+}
+
+.diplom-table {
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid #35444F;
+  color: #FFFFFF;
+  background-color: #35444F;
+  padding: 5px;
+}
+
+.page-footer {
+  background-color: #35444F;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+
+.page-git {
+  color: #FFFFFF;
+}
+
+.page-footer>p {
+  display: inline-block;
+  text-align: center;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #4BCAFF;
+  text-decoration: none;
+  margin-left: 150px;
+}
+
+.page-footer>a {
+  margin-top: auto;
+  margin-bottom: auto;
+  display: inline-block;
+  margin-right: -100px;
+}
+
+.page-footer>a>img {
+  display: inline-block;
+  margin-top: auto;
+  margin-bottom: auto;
+}
